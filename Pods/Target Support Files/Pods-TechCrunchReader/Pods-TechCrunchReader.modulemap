@@ -1,0 +1,6 @@
+framework module Pods_TechCrunchReader {
+  umbrella header "Pods-TechCrunchReader-umbrella.h"
+
+  export *
+  module * { export * }
+}
